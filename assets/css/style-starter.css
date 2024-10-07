@@ -352,6 +352,10 @@ legend {
   }
 }
 
+.img_team{
+max-width: 80%;
+}
+
 progress {
   vertical-align: baseline;
 }
@@ -15573,6 +15577,12 @@ button.search-btn {
     color: #fff;
   }
 
+  .img-team {
+    max-width: 100%;
+    display: flex;
+    border-radius: 8x;
+    width: 200%;
+}
   .nav-fixed .navbar .navbar-brand.index-responsive-color {
     color: var(--primary-color);
   }
